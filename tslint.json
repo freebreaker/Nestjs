@@ -15,7 +15,8 @@
     "object-literal-sort-keys": false,
     "no-console":false,
     "no-trailing-whitespace":false,
-    "eofline":false
+    "eofline":false,
+    "no-consecutive-blank-lines":false
   },
   "rulesDirectory": []
 }
